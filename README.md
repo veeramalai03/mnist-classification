@@ -24,10 +24,8 @@ Include the neural network model diagram.
 Write your own steps
 
 ## PROGRAM
-~~~
-Developed by: VEERAMALAI S
-Regno : 212220230056
-~~~
+
+
 ```python
 import numpy as np
 from tensorflow import keras
